@@ -1,3 +1,10 @@
 body{background-color: antiquewhite;}
 h1{ font-family: 'Times New Roman', Times, serif;font-size: 60px;}
 #p{color: chocolate; font-size:60px;}
+.row{ border:5px hidden white ; padding: 50px;  }
+.col1{ float: left; width:1000px ; border: 2px solid white ; padding: 10px;}
+.col2{ float: right; border: 2px hidden  white; padding: 30px;margin-left: -70px; }
+#q{ float: left ;border: 1px hidden grey;width: 600px; font-size: 27px; margin-left: -40px; }
+p.x{ background-color:orange;border:2px hidden white;width: 200px; padding: 20px 30px; font-size: 30px;text-align:center;border-radius: 7px;}
+a{ color: papayawhip;text-decoration: none;}
+.row1{ font-size:40px; text-align: center;margin-top: 18cm;border: 2px solid white;padding: 12px 650px;width:auto; }
