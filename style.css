@@ -1,10 +1,18 @@
 body{background-color: antiquewhite;}
 h1{ font-family: 'Times New Roman', Times, serif;font-size: 60px;}
-#p{color: chocolate; font-size:60px;}
+#p{color: chocolate; font-size:60px;padding-left: 2px;padding-top: -5px;}
 .row{ border:5px hidden white ; padding: 50px;  }
-.col1{ float: left; width:1000px ; border: 2px solid white ; padding: 10px;}
-.col2{ float: right; border: 2px hidden  white; padding: 30px;margin-left: -70px; }
-#q{ float: left ;border: 1px hidden grey;width: 600px; font-size: 27px; margin-left: -40px; }
+.col1{ float: left; width:1000px ; border: 2px hidden white ; padding: 10px;}
+.col2{ float: right; border: 2px hidden  white; padding: 30px;margin-left: -80px; }
+#q{ float: left ;border: 1px hidden grey;width: 600px; font-size: 27px; margin-left: -38px; padding-top:-2.5cm;padding-left: 0.5cm;}
 p.x{ background-color:orange;border:2px hidden white;width: 200px; padding: 20px 30px; font-size: 30px;text-align:center;border-radius: 7px;}
 a{ color: papayawhip;text-decoration: none;}
-.row1{ font-size:40px; text-align: center;margin-top: 18cm;border: 2px solid white;padding: 12px 650px;width:auto; }
+.row1{ font-size:40px; text-align: center;margin-top: 18cm;border: 2px hidden white;padding: 12px 650px;width:auto;display: flex;}
+.H1{flex: 1;border: 1px hidden white; color: black;margin-right: -3.8cm;}
+.H2{margin-right: 3.5cm; color: brown;}
+.row2{ border: 2px hidden white; width: auto; height:16cm ;  }
+.H3{margin-left:2cm;border:2px hidden white;background-color: turquoise;width: 13cm;height: 14cm;      border-radius: 40px; padding-left: 1.6cm; padding-top:0.7cm;}
+p.k{padding-left:0.4cm; font-size:27px ;color:black ;padding-right:2cm ;}
+.H4{margin-top: -14.8cm;margin-left:18.5cm;border:2px hidden white;background-color:pink;width: 13cm;height:14cm;border-radius: 40px; padding-left: 1.6cm; padding-top:0.8cm}
+.H5{ float: right;margin-top:-14.8cm;margin-left:31.9cm;border:2px hidden white;background-color:burlywood;width: 13cm;height:14cm;border-radius: 40px; padding-left: 1.6cm; padding-top:1.1cm}
+h3{ padding-left: 0.4cm; font-size: 35px; padding-right: 2cm;}
